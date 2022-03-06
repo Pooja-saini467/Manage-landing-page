@@ -19,7 +19,7 @@
 https://user-images.githubusercontent.com/90523453/156934171-4a9e2860-1355-4ba1-af50-c399834a1b61.mp4
 
 ## Live Link
-- Pooja-saini467()
+- Pooja-saini467(https://pooja-saini467.github.io/Manage-landing-page/)
 ## My Process
 ## Build With
 - html5
